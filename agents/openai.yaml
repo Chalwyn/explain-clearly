@@ -1,0 +1,4 @@
+interface:
+  display_name: "一眼看懂"
+  short_description: "先给答案，再用短文、表格或交互工具讲清问题，并保留关键条件"
+  default_prompt: "请用 $explain-clearly 解释下面的内容，选择最容易看懂的形式，并保留影响结论的条件。"
